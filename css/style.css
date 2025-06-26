@@ -1,0 +1,16 @@
+.hero-image {
+  text-align: center;
+  position: relative;
+  margin-bottom: 2rem;
+}
+.hero-pic {
+  width: 100%;
+  max-height: 340px;
+  object-fit: cover;
+  border-radius: 1em;
+  margin-bottom: 1rem;
+}
+.hero-image h1, .hero-image p, .hero-image a {
+  position: relative;
+  z-index: 2;
+}
