@@ -1,0 +1,4 @@
+service_name,description,duration,fixed_or_variable_price,price
+Private Lesson,A private dance lesson in the style(s) of your choice.,50 min,fixed,$120 
+Group Lesson,Group dance classes in the style(s) of your choice,50 min,variable,$120 +$20 per person
+Wedding Choreography,"Make your First Dance, Father Daughter Dance, Mother Son Dance, or your entire wedding party dance something truly magical.","50 min, 4 lessons minimum",variable,"$200 standard, contact for packages."
